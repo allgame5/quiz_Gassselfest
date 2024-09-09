@@ -1,11 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const quizData = [
-        {
-            type: 'multiple-choice',
-            question: 'Was ist die Hauptstadt von Deutschland?',
-            options: ['Berlin', 'München', 'Hamburg', 'Köln'],
-            answer: 'Berlin'
-        },
+        
         {
             type: 'text',
             question: 'Wie heißt das Biom wo Wüstentempel enstehen können?',
