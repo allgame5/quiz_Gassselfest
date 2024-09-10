@@ -24,6 +24,12 @@ document.addEventListener('DOMContentLoaded', () => {
             options: ['7. Oktober 2010', '20. Juli 2000', '17. Mai 2009', ''],
             answer: '17. Mai 2009'
         },
+         {
+            type: 'multiple-choice',
+            question: '',
+            options: ['', '', '', ''],
+            answer: ''
+        },
         
     ];
 
