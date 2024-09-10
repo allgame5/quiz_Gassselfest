@@ -26,11 +26,39 @@ document.addEventListener('DOMContentLoaded', () => {
         },
          {
             type: 'multiple-choice',
-            question: '',
-            options: ['', '', '', ''],
-            answer: ''
+            question: 'Wie heißt der wither in minecraft eigentlich?',
+            options: ['Max', 'Simmons', 'Skull Comb', 'Eggs squeezer'],
+            answer: 'Simmons'
         },
-        
+        {
+            type: 'multiple-choice',
+            question: 'In einer Alten Minecraft Version konnte man Tintenfische Melken',
+            options: ['Ja', 'Nein'],
+            answer: 'Simmons'
+        },
+        {
+            type: 'text',
+            question: 'Was Pasiert wenn man einem Tier den namen Grum geben',
+            answer: 'sie drehen sich um'
+        },
+        {
+            type: 'multiple-choice',
+            question: 'Wie viele Enderkristalle braucht mann um den enderdrachen wieder zu beschwören',
+            options: ['4', '7', '1', '2'],
+            answer: '2'
+        },
+        {
+            type: 'multiple-choice',
+            question: 'es gibt wenn du die schwierigkeitsstufe aus schwer stellt einen zumbie Anführer',
+            options: ['Ja', 'Nein'],
+            answer: 'Ja'
+        },
+        {
+            type: 'multiple-choice',
+            question: 'Was pasiert wenn du einem Tier den namen jeb_ gibst',
+            options: ['Er beginnt in regenbogenfarben zu schimmern', 'Nichts', 'Er kreift dich an', 'Er dreht sich auf den rüken'],
+            answer: 'Er beginnt in regenbogenfarben zu schimmern'
+        },
     ];
 
     let currentSlide = 0;
