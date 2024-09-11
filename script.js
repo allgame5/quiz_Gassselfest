@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
          {
             type: 'text',
             question: 'Was pasiert wenn du einem Enderman in die Augen siehst',
-            answer:Er wird agro ''
+            answer:Er wird agressiv ''
         },
     ];
 
