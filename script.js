@@ -59,6 +59,11 @@ document.addEventListener('DOMContentLoaded', () => {
             options: ['Er beginnt in regenbogenfarben zu schimmern', 'Nichts', 'Er kreift dich an', 'Er dreht sich auf den rüken'],
             answer: 'Er beginnt in regenbogenfarben zu schimmern'
         },
+         {
+            type: 'text',
+            question: 'Was pasiert wenn du einem Enderman in die Augen siehst',
+            answer:Er wird agro ''
+        },
     ];
 
     let currentSlide = 0;
